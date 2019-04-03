@@ -1,0 +1,12 @@
+flask-restful==0.3.5
+flask==0.12.1
+flask-marshmallow==0.7.0
+flask_cors
+flask-sqlalchemy
+flasgger
+firebase-admin
+psycopg2
+geoalchemy2
+marshmallow_sqlalchemy
+conekta
+flask-cors
